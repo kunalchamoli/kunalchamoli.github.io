@@ -1697,7 +1697,7 @@ input, select, textarea {
 		.image img {
 			display: block;
 			width: 100%;
-			height: 563px;
+			height: 490px;
 		}
 
 		.image.centered {
@@ -2069,7 +2069,7 @@ input, select, textarea {
 		position: relative;
 		background: #ffffff;
 		border-bottom: solid 1px #ccc;
-		padding: 5em 0 0 0;
+		padding: 1em 0 0 0;
 		text-align: center;
 	}
 
@@ -2084,7 +2084,8 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		margin: 2.5em 0 0 0;
+		margin: 0.5em 0 0 0;
+		padding: 2em;
 	}
 
 		#nav > ul {
